@@ -1,0 +1,21 @@
+README.md
+  s_9c26c64239ab07::t_e9e835585b0729 176
+categories/classification-routing.md
+  s_9c26c64239ab07::t_bcd4034db314bd 68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e1903e0af12509839638f1eae45ec4429ffcb934",
+  "prompts": {},
+  "sessions": {
+    "s_9c26c64239ab07": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3316c70c-9f61-496c-91d0-bceb01e957ba",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Norman Yee <155019+funkadelic@users.noreply.github.com>"
+    }
+  }
+}
